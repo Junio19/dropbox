@@ -1,0 +1,3 @@
+1. when passing a parameter on a FUNCTION you must enclosed it in a CALLBACK FUNCTION
+2. Object in react 
+   {tile: 'Alchemist', author: 'Jaypee', id:1}
